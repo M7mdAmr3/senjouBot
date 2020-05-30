@@ -5,11 +5,11 @@
   "repository": "https://github.com/M7mdAmr3/senjouBot",
   "env": {
     "TOKEN": {
-        "description": "Discord token used to log in",
+        "description": "NTIzNzk0OTAyMzM3OTc4Mzc5.XtJLkA.zZyI2deP7m1u_uky-WsB7F_07WA,
         "required": true
     },
     "PREFIX": {
-      "description": "Command prefix to use.",
+      "description": ".",
       "required": true
     },
     "GITHUBTOKEN": {
